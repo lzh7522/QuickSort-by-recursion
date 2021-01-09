@@ -1,5 +1,3 @@
-package com.sileneer.java2;
-
 /**
  * 
  * @Description Quick sort by using double circulation.
