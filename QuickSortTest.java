@@ -1,5 +1,3 @@
-package com.sileneer.java2;
-
 import java.util.Arrays;
 
 public class QuickSortTest {
